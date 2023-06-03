@@ -1,1 +1,60 @@
+1. What is the typical engagement rate we can expect? What’s the likelihood that we can
+achieve a 15% engagement rate?
+
+(Sol)
+To determine the typical engagement rate, we can calculate the average engagement rate across all posts in the dataset. This can be done by summing up the engagement rates for all posts and dividing it by the total number of posts. However, since the dataset is not provided, I cannot provide an exact average engagement rate.
+Regarding the likelihood of achieving a 15% engagement rate, it would depend on several factors such as the quality of content, target audience, and overall marketing strategy. Without specific information about these factors, it is challenging to determine the likelihood of achieving a 15% engagement rate. Generally, a 15% engagement rate is considered high, and achieving it consistently may require a well-defined content strategy, strong audience engagement, and effective marketing efforts.
+
+2. Does day of the week and time of posting affect engagement rates?
+
+(Sol)
+To analyze the impact of the day of the week and time of posting on engagement rates, you can perform a statistical analysis on the dataset. By grouping the data based on the day of the week and time of posting, you can calculate the average engagement rates for each group and compare them. This analysis can help identify patterns and determine if specific days or times yield higher engagement rates. It is also important to consider the characteristics of your target audience and their online behavior patterns when interpreting the results.
+
+3. How are our game titles doing in terms of social performance? Is there a specific game
+we should focus more on or less?
+
+(Sol)
+To evaluate the social performance of game titles, you can analyze the engagement rates and other relevant metrics associated with each game title. Calculate the average engagement rate for each game and compare them to identify which games are performing better or worse in terms of social engagement. Additionally, you can consider other metrics like shares, comments, and impressions to get a comprehensive understanding of the overall performance of each game title. Based on these findings, you can prioritize your focus on the games that are performing well and strategize ways to improve the performance of games that are lagging behind.
+
+
+4. What media type performs the best?
+
+(Sol)
+To determine which media type performs the best, you can analyze the engagement rates for different media types such as images, videos, and links. Calculate the average engagement rates for each media type and compare them. Additionally, consider the specific content and context of each post, as well as the preferences of your target audience. It's important to note that the definition of "best performing" may vary based on your specific goals and objectives. For example, if your primary goal is to drive clicks and website traffic, the media type that generates the highest click-through rates may be considered the best performing.
+
+
+5. What is our best performing campaign?
+(Sol)
+
+To identify the best performing campaign, you can analyze the engagement rates and other relevant metrics for each campaign in the dataset. Calculate the average engagement rate for each campaign and compare them. Additionally, consider other metrics such as reach, impressions, and conversions to get a holistic view of campaign performance. It's also important to align the campaign objectives with the metrics you are analyzing. For example, if the goal of a campaign is brand awareness, you may focus on metrics like reach and impressions, while a campaign focused on lead generation may prioritize conversion metrics.
+
+6. Define out a posting strategy for our social channels based on your discoveries.
+
+(Sol)
+To define a posting strategy for social channels based on the discoveries from the dataset, you can consider the following steps:
+
+•	Analyze the days and times that yielded higher engagement rates and identify patterns. Schedule posts during those high-engagement periods.
+•	Analyze the media types that performed the best and incorporate them into your content strategy. Experiment with different formats to keep the content fresh and engaging.
+•	Prioritize the game titles that are performing well in terms of social engagement and create content that highlights those games. However, ensure a balanced approach by also promoting other game titles to maintain diversity and cater to different audience interests.
+•	Experiment with different content themes, such as behind-the-scenes footage, game tutorials, or community spotlights, to keep the audience engaged and interested.
+•	Monitor the performance of posts and campaigns
+
+7. What suggestions would you give to the social media team if they want to expand their
+presence (e.g. if our CSGO youtube channel is doing well should we expand to TikTok)?
+
+(Sol)
+
+If the social media team wants to expand their presence and explore new platforms like TikTok, here are some suggestions:
+
+•	Research and Understand the Platform: Before expanding to a new platform, it's important to thoroughly research and understand its user demographics, content formats, trends, and engagement patterns. This will help you determine if TikTok aligns with your target audience and marketing goals.
+
+•	Analyze Cross-Platform Opportunities: If your CSGO YouTube channel is performing well, consider leveraging its success to expand to TikTok. Analyze the content that resonates with your YouTube audience and explore how you can adapt and repurpose that content for TikTok. For example, you can create shorter video snippets, highlights, tutorials, or behind-the-scenes footage specifically tailored to TikTok's format and preferences.
+
+•	Tailor Content to TikTok: TikTok has its own unique style and culture, so it's essential to create content that fits the platform. TikTok thrives on short, engaging, and visually appealing videos. Experiment with trending TikTok formats, challenges, and music to capture the attention of the TikTok community. Ensure that your content reflects the tone, style, and interests of TikTok users while still aligning with your brand and game titles.
+
+•	Engage with the Community: TikTok is highly interactive, so it's crucial to actively engage with the TikTok community. Respond to comments, collaborate with other TikTok creators or influencers in the gaming niche, and participate in relevant challenges and trends. Building a genuine and engaged community on TikTok will help increase your visibility and attract more followers.
+
+•	Cross-Promote and Integrate Platforms: Leverage your existing social media channels, such as YouTube and other platforms, to cross-promote your TikTok presence. Mention your TikTok account in YouTube video descriptions, create teasers or previews of TikTok content, and encourage your YouTube audience to follow you on TikTok. This cross-promotion will help drive traffic and followers to your TikTok account.
+
+•	Monitor Metrics and Adapt: As you expand to TikTok, closely monitor the performance metrics such as views, likes, shares, and comments. Analyze which types of content and strategies are resonating with the TikTok audience and adapt your approach accordingly. Continuously refine your content strategy based on user feedback, trends, and platform analytics to maximize engagement and growth.
 
